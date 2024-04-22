@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manh", "manh.csproj", "{5F99DDCC-E5F0-445F-9C32-CEEB65453AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F99DDCC-E5F0-445F-9C32-CEEB65453AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F99DDCC-E5F0-445F-9C32-CEEB65453AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F99DDCC-E5F0-445F-9C32-CEEB65453AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F99DDCC-E5F0-445F-9C32-CEEB65453AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF6176E-0113-4193-9420-5021446F4DDD}
+	EndGlobalSection
+EndGlobal
